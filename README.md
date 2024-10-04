@@ -25,10 +25,11 @@ Anahtar (key)
 # Kriptosistem
 
 * Bir kriptosistem (P, C, K, E, D) Beşlisinden oluşur.
-* P: Açık metin uzayı, p --> açık metin       29! faktoriyel şekilde yan yana geleiblir
+* P (p) plaintext: Açık metin uzayı, p --> açık metin
+    -29! faktoriyel şekilde yan yana geleiblir
 * C: Kapalı metin uzayı, c --> kapalı anahtar
 * K: Anahtar uzayı, k --> anahtar
 * E: Şifreleme Algoritması,
 * D: Şifre çözme algoritması
 
-(p) plaintext
+#  Güvenli İletişim
