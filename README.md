@@ -22,3 +22,12 @@ Anahtar (key)
 * Kapsülleme (encapsulation) Dekapsülleme (decapsulation) --> Anahtarı şifreleme işlemi
     - KEM (Key encapsulation mechanism)
 
+# Kriptosistem
+
+* Bir kriptosistem (P, C, K, E, D) Beşlisinden oluşur.
+* P: Açık metin uzayı.
+* C: Kapalı metin uzayı
+* K: Anahtar uzayı
+* E: Şifreleme Algoritması
+* D: Şifre çözme algoritması
+* 
