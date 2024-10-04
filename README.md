@@ -41,6 +41,8 @@ Enigma (The Imitation Game)
 
 Lunch Time Attack 
 
+Turing Testi Nedir ? 
+3 kişiden en az 1 kişi yapay zeka ile konuştuğunu bilmemeli.
 
 
 
