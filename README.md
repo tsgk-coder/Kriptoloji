@@ -16,4 +16,9 @@ Kripto Analiz
   d,(y) = x
 
 Anahtar (key)
-- 
+- Şifreleme ve şifre çözmede kullanılan iletişime özgü bilgi.
+
+* Encode (Kodlama) ve Decode (Kod çözme)
+* Kapsülleme (encapsulation) Dekapsülleme (decapsulation) --> Anahtarı şifreleme işlemi
+    - KEM (Key encapsulation mechanism)
+
